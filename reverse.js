@@ -8,6 +8,6 @@ const reverse = function(num) {
 };
 console.log(reverse("hbgdtcm"))
 
-//for (const element of arr) {
- // console.log(reverse(element));
-//}
+for (const element of arr) {
+  console.log(reverse(element));
+}
