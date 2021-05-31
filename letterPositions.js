@@ -10,6 +10,6 @@ const letterPositions = function(sentence) {
   }
   return results;
 };
-console.log(letterPositions("lighthouse in the House"));
 
-// console.log(asserArraysEqual(letterPosition("hello").e,[1]));
+
+module.exports = letterPositions;
