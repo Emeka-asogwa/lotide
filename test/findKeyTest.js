@@ -14,7 +14,7 @@ const object = {
 
 describe("#findKey", () => {
   it("returns noma", () => {
-    assert.strictEqual(findKey(object, x => x.stars === 2 ),'noma');
+    assert.strictEqual(findKey(object, x => x.stars === 2),'noma');
 
   });
 });

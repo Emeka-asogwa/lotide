@@ -6,9 +6,9 @@ const assert = require('chai').assert;
 
 describe('#reverse', () => {
   it('returns "mctdgbh"', () => {
-    assert.strictEqual(reverse('hbgdtcm'), 'mctdgbh')
+    assert.strictEqual(reverse('hbgdtcm'), 'mctdgbh');
   });
-})
+});
 
 
 
