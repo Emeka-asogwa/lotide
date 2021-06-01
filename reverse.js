@@ -6,8 +6,11 @@ const reverse = function(num) {
   }
   return newarr;
 };
-console.log(reverse("hbgdtcm"))
+//console.log(reverse("hbgdtcm"))
 
-for (const element of arr) {
-  console.log(reverse(element));
-}
+// for (const element of arr) {
+//   console.log(reverse(element));
+// }
+
+
+module.exports = reverse;
