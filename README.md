@@ -40,7 +40,7 @@ The following functions are currently implemented:
 * `findKeyByValue(object,objectValue)`: Returns the key of the object value.
 * `letterPositions(string)`: Returns all the indices of each elements in the string.
 * `map(array, condition)`: Returns a new array after performing the condition on the array. 
-* `reverse()`:
+* `reverse(string)`: Returns a reverse of the characters of the string.
 * `without(array1,array2)`: Returns the elements that are not in the array2 where array2 is the exclusion array.
 * `flatten(array)`: Returns the elements in the array or the elements in the nested array(s).
 
