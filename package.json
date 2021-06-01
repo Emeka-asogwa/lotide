@@ -1,7 +1,7 @@
 {
   "name": "@emeka-asogwa/lotide",
   "version": "1.0.0",
-  "description": "lotide project",
+  "description": "An additional library for [lotide](https://lodash.com) library",
   "main": ".eslintrc.js",
   "scripts": {
     "test": "mocha"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Emeka-asogwa/lotide.git"
   },
-  "author": "Emeka-Asogwa",
+  "author": "Emeka Asogwa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Emeka-asogwa/lotide/issues"

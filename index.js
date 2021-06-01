@@ -15,8 +15,7 @@ const map = require('./map');
 const reverse = require('./reverse');
 const takeUntil = require('./takeUntil');
 const without = require('./without');
-//const  = require('./');
-//const  = require('./');
+const flatten = require('./flatten');
 
 
 
@@ -24,5 +23,6 @@ const without = require('./without');
 
 
 
-module.exports = {head,tail,middle,assertEqual,assertArraysEqual, eqArrays,assertObjectsEqual,countLetters,countOnly,eqObjects,findKey,findKeyByValue,letterPositions,map,reverse,without};
+
+module.exports = {head,tail,middle,assertEqual,assertArraysEqual, eqArrays,assertObjectsEqual,countLetters,countOnly,eqObjects,findKey,findKeyByValue,letterPositions,map,reverse,without,flatten};
 
