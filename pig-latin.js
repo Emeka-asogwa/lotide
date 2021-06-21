@@ -10,3 +10,4 @@ const pigLatin = function(arg) {
 };
 
 console.log(pigLatin(args));
+
