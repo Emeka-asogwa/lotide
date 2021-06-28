@@ -17,5 +17,23 @@ const takeUntil = require('./takeUntil');
 const without = require('./without');
 const flatten = require('./flatten');
 
-module.exports = {head,tail,middle,assertEqual,assertArraysEqual, eqArrays,assertObjectsEqual,countLetters,countOnly,eqObjects,findKey,findKeyByValue,letterPositions,map,reverse,without,flatten};
+module.exports = {
+  head,
+  tail,
+  middle,
+  assertEqual,
+  assertArraysEqual, 
+  eqArrays,
+  assertObjectsEqual,
+  countLetters,
+  countOnly,
+  eqObjects,
+  findKey,
+  findKeyByValue,
+  letterPositions,
+  map,
+  reverse,
+  without,
+  flatten
+};
 
