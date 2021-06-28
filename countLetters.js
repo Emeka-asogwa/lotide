@@ -1,4 +1,4 @@
-const countLetters = function(sentence) {
+const countLetters = function (sentence) {
   let count = {};
   for (let letters of sentence) {
     if (count[letters] === undefined) {
@@ -12,6 +12,6 @@ const countLetters = function(sentence) {
 
 };
 
-//console.log(countLetters("lighthouse in the house"));
+
 
 module.exports = countLetters;
